@@ -1,1 +1,1 @@
-# tab-js
+# [練習用]javascritptでタブ作成
